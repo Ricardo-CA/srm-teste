@@ -1,5 +1,5 @@
 EndPoint "/users" metodo "POST":
 
-body: JSON{identificador, nome}
+corpo da requisição: JSON{identificador, nome}
 
 resposta: JSON{identificador, nome, tipoIdentificador}
